@@ -1,5 +1,6 @@
 {
     "heejin": {
+        "id": "heejin",
         "stage": "HeeJin",
         "name": "Jeon HeeJin",
         "reveal": "September 26, 2016",
@@ -7,12 +8,10 @@
         "bday": "October 19, 2000",
         "birthPlace": "Bundang-gu, Seongnam, Gyeonggi Province, South Korea",
         "bloodGrp": "A",
-
         "traineeDuration": "?",
         "nextGirlImg": "--",
         "img": "https://i.imgur.com/PaINZwr.jpg",
         "sign": "https://vignette.wikia.nocookie.net/loonatheworld/images/4/48/HeeJin_signature.png",
-
         "memNo": "First",
         "animal": "🐇",
         "color": {
@@ -21,49 +20,151 @@
             "rgb": "rgb(255, 0, 139)"
         },
         "givenName": "Heekkie, Heejumeoni, Heejumma",
-
         "hashtags": "#Jeon #Hwi #Hyeol",
         "teamPostion": "Clumsy-hands, Organized one, Cure-all hands",
         "charmPoint": "Thick eyebrows, Penguin-like Lips",
-
         "goals": "Dominating the Universe (+ Koduko no Gourmet)",
-
         "msgToOrbit": "Hello, Orbits my love! :) It’s already been a year. It's such a happy day but I feel sorry that there's not much I've done for you for the past year. Thank you so much for staying with me, and I love you with all my heart. LOONA could only exist because of Orbits last year!",
-
         "mv": [
-            ["2016", "ViViD", "HeeJin", "Main", "-FCYE87P5L0"],
-            ["2016", "ViViD (Acoustic Mix)", "HeeJin", "Main", "E6hhBqWjdmM"],
-            ["2016", "I'll Be There", "HyunJin", "Main", "pKybkK2gj1U"],
-            ["2016", "The Carol", "HaSeul", "Main", "WX-lpEnIQQk"],
-            ["2017", "My Sunday", "YeoJin", "Main", "TtaDrUbsO30"],
-
-            ["2017", "Love&Live", "Love & Live", "Main", "4K4b9Z9lSwc"],
-            ["2017", "You and Me Together (Special MV)", "Love & Live", "Main", "2_r4kDUzslg"],
-
-            ["2017", "Everyday I Love You (feat. HaSeul)", "ViVi", "Cameo", "ZNcBZM5SvbY"],
-
-            ["2017", "Sonatine", "Love & Evil", "Main", "a6JmCdDs_GM"],
-            ["2017", "Rain 51db", "Love & Evil", "Main", "GhcY79E7am0"],
-
-            ["2017", "Singing In The Rain (feat. HeeJin)", "JinSoul", "Rapper", "jm9066RGYsI"],
-            ["2018", "Around You (Special Film Ver.)",	"HyunJin", "Cameo","jzPITap-JRM"],
-            ["2018", "Egoist (feat. JinSoul)", "Olivia Hye", "Cameo", "UkY8HvgvBJ8"],
-
-            ["2018", "favOriTe", "[++]", "Main", "AFJPFfnzZ7w"],
-            ["2018", "Hi High", "[++]", "Main", "846cjX0ZTrk"],
-            ["2018", "Butterfly", "[xx]", "Main", "XEOCbFJjRw0"]
+            {
+                "year": "2016",
+                "song": "ViViD",
+                "album": "HeeJin",
+                "role": "Main",
+                "ytId": "-FCYE87P5L0"
+            },
+            {
+                "year": "2016",
+                "song": "ViViD (Acoustic Mix)",
+                "album": "HeeJin",
+                "role": "Main",
+                "ytId": "E6hhBqWjdmM"
+            },
+            {
+                "year": "2016",
+                "song": "I'll Be There",
+                "album": "HyunJin",
+                "role": "Main",
+                "ytId": "pKybkK2gj1U"
+            },
+            {
+                "year": "2016",
+                "song": "The Carol",
+                "album": "HaSeul",
+                "role": "Main",
+                "ytId": "WX-lpEnIQQk"
+            },
+            {
+                "year": "2017",
+                "song": "My Sunday",
+                "album": "YeoJin",
+                "role": "Main",
+                "ytId": "TtaDrUbsO30"
+            },
+            {
+                "year": "2017",
+                "song": "Love&Live",
+                "album": "Love & Live",
+                "role": "Main",
+                "ytId": "4K4b9Z9lSwc"
+            },
+            {
+                "year": "2017",
+                "song": "You and Me Together (Special MV)",
+                "album": "Love & Live",
+                "role": "Main",
+                "ytId": "2_r4kDUzslg"
+            },
+            {
+                "year": "2017",
+                "song": "Everyday I Love You (feat. HaSeul)",
+                "album": "ViVi",
+                "role": "Cameo",
+                "ytId": "ZNcBZM5SvbY"
+            },
+            {
+                "year": "2017",
+                "song": "Sonatine",
+                "album": "Love & Evil",
+                "role": "Main",
+                "ytId": "a6JmCdDs_GM"
+            },
+            {
+                "year": "2017",
+                "song": "Rain 51db",
+                "album": "Love & Evil",
+                "role": "Main",
+                "ytId": "GhcY79E7am0"
+            },
+            {
+                "year": "2017",
+                "song": "Singing In The Rain (feat. HeeJin)",
+                "album": "JinSoul",
+                "role": "Rapper",
+                "ytId": "jm9066RGYsI"
+            },
+            {
+                "year": "2018",
+                "song": "Around You (Special Film Ver.)",
+                "album": "HyunJin",
+                "role": "Cameo",
+                "ytId": "jzPITap-JRM"
+            },
+            {
+                "year": "2018",
+                "song": "Egoist (feat. JinSoul)",
+                "album": "Olivia Hye",
+                "role": "Cameo",
+                "ytId": "UkY8HvgvBJ8"
+            },
+            {
+                "year": "2018",
+                "song": "favOriTe",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "AFJPFfnzZ7w"
+            },
+            {
+                "year": "2018",
+                "song": "Hi High",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "846cjX0ZTrk"
+            },
+            {
+                "year": "2018",
+                "song": "Butterfly",
+                "album": "[xx]",
+                "role": "Main",
+                "ytId": "XEOCbFJjRw0"
+            }
         ],
-
         "wd": [
-            ["2017", "Do You Remember The First Time We Met?", "Jeon HeeJin (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"],
-            ["2017", "Do You Remember The First Time We Met? Season 2", "Jeon HeeJin (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"]
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met?",
+                "role": "Jeon HeeJin (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"
+            },
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met? Season 2",
+                "role": "Jeon HeeJin (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"
+            }
         ],
-
         "tv": [
-            ["2017-18",	"MIXNINE", "jTBC", "Contestant", "#"]
+            {
+                "year": "2017-18",
+                "title": "MIXNINE",
+                "network": "jTBC",
+                "role": "Contestant",
+                "url": "#"
+            }
         ]
     },
     "hyunjin": {
+        "id": "hyunjin",
         "stage": "HyunJin",
         "name": "Kim HyunJin",
         "reveal": "October 28, 2016",
@@ -71,12 +172,10 @@
         "bday": "November 15, 2000",
         "birthPlace": "Jeonju, North Jeolla Province, South Korea",
         "bloodGrp": "AB",
-    
         "traineeDuration": "3 Years",
         "nextGirlImg": "--",
         "img": "https://i.imgur.com/ivQQWhI.jpg",
         "sign": "https://vignette.wikia.nocookie.net/loonatheworld/images/a/aa/HyunJin_signature.png",
-    
         "memNo": "Second",
         "animal": "🐈",
         "color": {
@@ -85,49 +184,151 @@
             "rgb": "rgb(255, 207, 0)"
         },
         "givenName": "HyunJin-Bot, Kkakkoongie, Breadjin, Aeong",
-    
         "hashtags": "#Yellow #Aeong",
         "teamPostion": "Prankster, Aeongie",
         "charmPoint": "Big hands, Big Eyes, Misty Voice",
-    
         "goals": "Bakery Owner, Cafe Owner, BlockBerry Creative CEO",
-    
         "msgToOrbit": "Already 1 year old!! I'm 20 years old though (aeong lol) Congratulations to Orbits and thank you for always staying with us. You will be with us even when you turn 100 years old, right?? Promise me!! I'm giving coupons to Orbits who made a promise. Coupons for free chocolate bread at the future bakery “Aeong- breadcat” I love you, Orbits~",
-    
         "mv": [
-            ["2016", "Around You", "HyunJin", "Main", "mybsDDymrsc"],
-            ["2018", "Around You (Original Film Ver.)",	"HyunJin", "Main","ePFojB292-Q"],
-            ["2016", "I'll Be There", "HyunJin", "Main", "pKybkK2gj1U"],
-            ["2016", "The Carol", "HaSeul", "Main", "WX-lpEnIQQk"],
-            ["2017", "My Sunday", "YeoJin", "Main", "TtaDrUbsO30"],
-            
-            ["2017", "Love&Live", "Love & Live", "Main", "4K4b9Z9lSwc"],
-            ["2017", "You and Me Together (Special MV)", "Love & Live", "Main", "2_r4kDUzslg"],
-            
-            ["2017", "Everyday I Love You (feat. HaSeul)", "ViVi", "Cameo", "ZNcBZM5SvbY"],
-            
-            ["2017", "Sonatine", "Love & Evil", "Main", "a6JmCdDs_GM"],
-            ["2017", "Rain 51db", "Love & Evil", "Main", "GhcY79E7am0"],
-            
-            ["2017", "Girl Front", "Mix & Match", "Cameo", "tyInv6RWL0Q"],
-            ["2018", "Around You (Special Film Ver.)",	"HyunJin", "Main","jzPITap-JRM"],
-    
-            ["2018", "favOriTe", "[++]", "Main", "AFJPFfnzZ7w"],
-            ["2018", "Hi High", "[++]", "Main", "846cjX0ZTrk"],
-            ["2018", "Butterfly", "[xx]", "Main", "XEOCbFJjRw0"]
+            {
+                "year": "2016",
+                "song": "Around You",
+                "album": "HyunJin",
+                "role": "Main",
+                "ytId": "mybsDDymrsc"
+            },
+            {
+                "year": "2018",
+                "song": "Around You (Original Film Ver.)",
+                "album": "HyunJin",
+                "role": "Main",
+                "ytId": "ePFojB292-Q"
+            },
+            {
+                "year": "2016",
+                "song": "I'll Be There",
+                "album": "HyunJin",
+                "role": "Main",
+                "ytId": "pKybkK2gj1U"
+            },
+            {
+                "year": "2016",
+                "song": "The Carol",
+                "album": "HaSeul",
+                "role": "Main",
+                "ytId": "WX-lpEnIQQk"
+            },
+            {
+                "year": "2017",
+                "song": "My Sunday",
+                "album": "YeoJin",
+                "role": "Main",
+                "ytId": "TtaDrUbsO30"
+            },
+            {
+                "year": "2017",
+                "song": "Love&Live",
+                "album": "Love & Live",
+                "role": "Main",
+                "ytId": "4K4b9Z9lSwc"
+            },
+            {
+                "year": "2017",
+                "song": "You and Me Together (Special MV)",
+                "album": "Love & Live",
+                "role": "Main",
+                "ytId": "2_r4kDUzslg"
+            },
+            {
+                "year": "2017",
+                "song": "Everyday I Love You (feat. HaSeul)",
+                "album": "ViVi",
+                "role": "Cameo",
+                "ytId": "ZNcBZM5SvbY"
+            },
+            {
+                "year": "2017",
+                "song": "Sonatine",
+                "album": "Love & Evil",
+                "role": "Main",
+                "ytId": "a6JmCdDs_GM"
+            },
+            {
+                "year": "2017",
+                "song": "Rain 51db",
+                "album": "Love & Evil",
+                "role": "Main",
+                "ytId": "GhcY79E7am0"
+            },
+            {
+                "year": "2017",
+                "song": "Girl Front",
+                "album": "Mix & Match",
+                "role": "Cameo",
+                "ytId": "tyInv6RWL0Q"
+            },
+            {
+                "year": "2018",
+                "song": "Around You (Special Film Ver.)",
+                "album": "HyunJin",
+                "role": "Main",
+                "ytId": "jzPITap-JRM"
+            },
+            {
+                "year": "2018",
+                "song": "favOriTe",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "AFJPFfnzZ7w"
+            },
+            {
+                "year": "2018",
+                "song": "Hi High",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "846cjX0ZTrk"
+            },
+            {
+                "year": "2018",
+                "song": "Butterfly",
+                "album": "[xx]",
+                "role": "Main",
+                "ytId": "XEOCbFJjRw0"
+            }
         ],
-    
         "wd": [
-            ["2017", "Do You Remember The First Time We Met?", "Kim HyunJin (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"],
-            ["2017", "Do You Remember The First Time We Met? Season 2", "Jeon HeeJin (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"]
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met?",
+                "role": "Kim HyunJin (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"
+            },
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met? Season 2",
+                "role": "Jeon HeeJin (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"
+            }
         ],
-    
         "tv": [
-            ["2013",	"Three Idiots", "tvN", "Herself", "https://www.youtube.com/watch?v=t-1sEgi5p9Q"],
-            ["2017-18",	"MIXNINE", "jTBC", "Contestant", "#"]
+            {
+                "year": "2013",
+                "title": "Three Idiots",
+                "network": "tvN",
+                "role": "Herself",
+                "url": "https://www.youtube.com/watch?v=t-1sEgi5p9Q"
+            },
+            {
+                "year": "2017-18",
+                "title": "MIXNINE",
+                "network": "jTBC",
+                "role": "Contestant",
+                "url": "#"
+            }
         ]
     },
     "haseul": {
+        "id": "haseul",
         "stage": "HaSeul",
         "name": "Jo HaSeul",
         "reveal": "December 08, 2016",
@@ -135,12 +336,10 @@
         "bday": "August 18, 1998",
         "birthPlace": "Ansan, Gyeonggi Province, South Korea ",
         "bloodGrp": "O",
-    
         "traineeDuration": "?",
         "nextGirlImg": "--",
         "img": "https://i.imgur.com/YCXLVBq.jpg",
         "sign": "https://vignette.wikia.nocookie.net/loonatheworld/images/a/a5/HaSeul_signature.png",
-    
         "memNo": "Third",
         "animal": "🕊",
         "color": {
@@ -149,46 +348,130 @@
             "rgb": "rgb(0, 176, 83)"
         },
         "givenName": "HaSeul PD, Jo PD, MomSeul",
-    
         "hashtags": "#Iceland #VocalGangster",
         "teamPostion": "Mommy",
         "charmPoint": "My heart that loves and cares about Orbits",
-    
         "goals": "Having a concert 10 years from now, founding a small theater named 'Jo HaSeul'",
-    
         "msgToOrbit": "Orbits! I'm so emotional to think that it has already been a year. A lot of things have happened while the 1st generation Orbits spent a year with us and there were many happy and good moments! We did three concerts and two promotions and albums, right!? Thank you so much for being with us until now, Orbits. You are so precious and I'm so grateful, it can't be expressed in words. You know how I feel, right!? Thank you.",
-    
         "mv": [
-            ["2016", "Let Me In", "HaSeul", "Main", "6a4BWpBJppI"],
-            ["2016", "The Carol", "HaSeul", "Main", "WX-lpEnIQQk"],
-            ["2017", "My Melody", "YeoJin", "Main", "wUBrO83fTbY"],
-            
-            ["2017", "Love&Live", "Love & Live", "Main", "4K4b9Z9lSwc"],
-            ["2017", "You and Me Together (Special MV)", "Love & Live", "Main", "2_r4kDUzslg"],
-            
-            ["2017", "Everyday I Love You (feat. HaSeul)", "ViVi", "Cameo", "ZNcBZM5SvbY"],
-            
-            ["2017", "Sonatine", "Love & Evil", "Main", "a6JmCdDs_GM"],
-            ["2017", "Rain 51db", "Love & Evil", "Main", "GhcY79E7am0"],
-            
-            ["2017", "Love Cherry Motion", "Choerry", "Cameo", "VBbeuXW8Nko"],
-            ["2018", "Heart Attack", "Chuu", "Cameo", "BVVfMFS3mgc"],
-    
-            ["2018", "favOriTe", "[++]", "Main", "AFJPFfnzZ7w"],
-            ["2018", "Hi High", "[++]", "Main", "846cjX0ZTrk"],
-            ["2018", "Butterfly", "[xx]", "Main", "XEOCbFJjRw0"]
+            {
+                "year": "2016",
+                "song": "Let Me In",
+                "album": "HaSeul",
+                "role": "Main",
+                "ytId": "6a4BWpBJppI"
+            },
+            {
+                "year": "2016",
+                "song": "The Carol",
+                "album": "HaSeul",
+                "role": "Main",
+                "ytId": "WX-lpEnIQQk"
+            },
+            {
+                "year": "2017",
+                "song": "My Melody",
+                "album": "YeoJin",
+                "role": "Main",
+                "ytId": "wUBrO83fTbY"
+            },
+            {
+                "year": "2017",
+                "song": "Love&Live",
+                "album": "Love & Live",
+                "role": "Main",
+                "ytId": "4K4b9Z9lSwc"
+            },
+            {
+                "year": "2017",
+                "song": "You and Me Together (Special MV)",
+                "album": "Love & Live",
+                "role": "Main",
+                "ytId": "2_r4kDUzslg"
+            },
+            {
+                "year": "2017",
+                "song": "Everyday I Love You (feat. HaSeul)",
+                "album": "ViVi",
+                "role": "Cameo",
+                "ytId": "ZNcBZM5SvbY"
+            },
+            {
+                "year": "2017",
+                "song": "Sonatine",
+                "album": "Love & Evil",
+                "role": "Main",
+                "ytId": "a6JmCdDs_GM"
+            },
+            {
+                "year": "2017",
+                "song": "Rain 51db",
+                "album": "Love & Evil",
+                "role": "Main",
+                "ytId": "GhcY79E7am0"
+            },
+            {
+                "year": "2017",
+                "song": "Love Cherry Motion",
+                "album": "Choerry",
+                "role": "Cameo",
+                "ytId": "VBbeuXW8Nko"
+            },
+            {
+                "year": "2018",
+                "song": "Heart Attack",
+                "album": "Chuu",
+                "role": "Cameo",
+                "ytId": "BVVfMFS3mgc"
+            },
+            {
+                "year": "2018",
+                "song": "favOriTe",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "AFJPFfnzZ7w"
+            },
+            {
+                "year": "2018",
+                "song": "Hi High",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "846cjX0ZTrk"
+            },
+            {
+                "year": "2018",
+                "song": "Butterfly",
+                "album": "[xx]",
+                "role": "Main",
+                "ytId": "XEOCbFJjRw0"
+            }
         ],
-    
         "wd": [
-            ["2017", "Do You Remember The First Time We Met?", "Jo HaSeul (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"],
-            ["2017", "Do You Remember The First Time We Met? Season 2", "Jo HaSeul (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"]
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met?",
+                "role": "Jo HaSeul (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"
+            },
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met? Season 2",
+                "role": "Jo HaSeul (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"
+            }
         ],
-    
         "tv": [
-            ["2017-18",	"MIXNINE", "jTBC", "Contestant", "#"]
+            {
+                "year": "2017-18",
+                "title": "MIXNINE",
+                "network": "jTBC",
+                "role": "Contestant",
+                "url": "#"
+            }
         ]
     },
     "yeojin": {
+        "id": "yeojin",
         "stage": "YeoJin",
         "name": "Im YeoJin",
         "reveal": "January 4, 2017",
@@ -196,12 +479,10 @@
         "bday": "November 11, 2002",
         "birthPlace": "Guro Seoul, South Korea",
         "bloodGrp": "B",
-    
         "traineeDuration": "?",
         "nextGirlImg": "--",
         "img": "https://i.imgur.com/7GAbHkQ.jpg",
         "sign": "https://vignette.wikia.nocookie.net/loonatheworld/images/c/c9/YeoJin_signature.png",
-    
         "memNo": "Fourth",
         "animal": "🐸",
         "color": {
@@ -210,32 +491,79 @@
             "rgb": "rgb(255, 95, 0)"
         },
         "givenName": "Smol/Lentil Bean, Ddonggeulee",
-    
         "hashtags": "#LittleBean #Grandma",
         "teamPostion": "Maknae, Cutie-Pie",
         "charmPoint": "Small Body, Small Hands",
-    
         "goals": "The Best Girl Group, LOOΠΔ",
-    
         "msgToOrbit": "My Orbit, happy first anniversary~ Thank you so much for believing in and holding on to us. I feel like I haven't done much for you compared to what you've done for me, so I'll do my best! To give you a lot more from now on!! Please stay with me wherever I am. I love you. I love my Orbit more than anyone else. Happy 1st anniversary ♥︎",
-    
         "mv": [
-            ["2016", "Kiss Later", "YeoJin", "Main", "thpTOAS1Vgg"],
-            ["2017", "My Melody", "YeoJin", "Main", "wUBrO83fTbY"],
-            ["2017", "Everyday I Love You (feat. HaSeul)", "ViVi", "Cameo", "ZNcBZM5SvbY"],
-            ["2017", "Love Cherry Motion", "Choerry", "Cameo", "VBbeuXW8Nko"],
-    
-            ["2018", "favOriTe", "[++]", "Main", "AFJPFfnzZ7w"],
-            ["2018", "Hi High", "[++]", "Main", "846cjX0ZTrk"],
-            ["2018", "Butterfly", "[xx]", "Main", "XEOCbFJjRw0"]
+            {
+                "year": "2016",
+                "song": "Kiss Later",
+                "album": "YeoJin",
+                "role": "Main",
+                "ytId": "thpTOAS1Vgg"
+            },
+            {
+                "year": "2017",
+                "song": "My Melody",
+                "album": "YeoJin",
+                "role": "Main",
+                "ytId": "wUBrO83fTbY"
+            },
+            {
+                "year": "2017",
+                "song": "Everyday I Love You (feat. HaSeul)",
+                "album": "ViVi",
+                "role": "Cameo",
+                "ytId": "ZNcBZM5SvbY"
+            },
+            {
+                "year": "2017",
+                "song": "Love Cherry Motion",
+                "album": "Choerry",
+                "role": "Cameo",
+                "ytId": "VBbeuXW8Nko"
+            },
+            {
+                "year": "2018",
+                "song": "favOriTe",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "AFJPFfnzZ7w"
+            },
+            {
+                "year": "2018",
+                "song": "Hi High",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "846cjX0ZTrk"
+            },
+            {
+                "year": "2018",
+                "song": "Butterfly",
+                "album": "[xx]",
+                "role": "Main",
+                "ytId": "XEOCbFJjRw0"
+            }
         ],
-    
         "wd": [
-            ["2017", "Do You Remember The First Time We Met?", "Im YeoJin (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"],
-            ["2017", "Do You Remember The First Time We Met? Season 2", "Im YeoJin (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"]
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met?",
+                "role": "Im YeoJin (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"
+            },
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met? Season 2",
+                "role": "Im YeoJin (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"
+            }
         ]
     },
     "vivi": {
+        "id": "vivi",
         "stage": "ViVi",
         "name": "Viian Wong Jia Xi",
         "reveal": "February 14, 2017 ",
@@ -243,12 +571,10 @@
         "bday": "December 9, 1996 ",
         "birthPlace": "Hong Kong",
         "bloodGrp": "B",
-    
         "traineeDuration": "?",
         "nextGirlImg": "--",
         "img": "https://i.imgur.com/LqYpnc5.jpg",
         "sign": "https://vignette.wikia.nocookie.net/loonatheworld/images/4/44/ViVi_signature.png",
-    
         "memNo": "Fifth",
         "animal": "🦌",
         "color": {
@@ -257,39 +583,107 @@
             "rgb": "rgb(255, 148, 176)"
         },
         "givenName": "Wong Kahei, Hwang A-ra, BB cream (비비 크림)",
-    
         "hashtags": "#MyWay",
         "teamPostion": "Matnae (eldest, but similar to 'Maknae')",
         "charmPoint": "Being expressive, A mindset that always takes on challenges.",
-    
         "goals": "LOOΠΔ being successful, LOOΠΔ being happy, Having a concert in Hong Kong",
-    
         "msgToOrbit": "It has been a year since I met Orbits. Of course, we've spent more than a year together. Thank you for being with us all the time. I'm always happy and thankful. You know this is just the beginning, right!? Let's always be together. My beloved Orbits ♥︎ “Orbit Loona”",
-    
         "mv": [
-            ["2017", "Love&Live", "Love & Live", "Main", "4K4b9Z9lSwc"],
-            ["2017", "You and Me Together (Special MV)", "Love & Live", "Main", "2_r4kDUzslg"],
-            
-            ["2017", "Everyday I Love You (feat. HaSeul)", "ViVi", "Main", "ZNcBZM5SvbY"],
-            ["2017", "Everyday I Need You (feat. JinSoul)", "ViVi", "Main", "yphYFDJ4J4w"],
-            
-            ["2017", "Sonatine", "Love & Evil", "Main", "a6JmCdDs_GM"],
-            ["2017", "Rain 51db", "Love & Evil", "Main", "GhcY79E7am0"],
-            
-            ["2017", "new", "Yves", "Cameo", "LIDe-yTxda0"],
-            ["2017", "The Carol 2.0", "The Carol 2.0", "Main", "_5N16N_T23k"],
-    
-            ["2018", "favOriTe", "[++]", "Main", "AFJPFfnzZ7w"],
-            ["2018", "Hi High", "[++]", "Main", "846cjX0ZTrk"],
-            ["2018", "Butterfly", "[xx]", "Main", "XEOCbFJjRw0"]
+            {
+                "year": "2017",
+                "song": "Love&Live",
+                "album": "Love & Live",
+                "role": "Main",
+                "ytId": "4K4b9Z9lSwc"
+            },
+            {
+                "year": "2017",
+                "song": "You and Me Together (Special MV)",
+                "album": "Love & Live",
+                "role": "Main",
+                "ytId": "2_r4kDUzslg"
+            },
+            {
+                "year": "2017",
+                "song": "Everyday I Love You (feat. HaSeul)",
+                "album": "ViVi",
+                "role": "Main",
+                "ytId": "ZNcBZM5SvbY"
+            },
+            {
+                "year": "2017",
+                "song": "Everyday I Need You (feat. JinSoul)",
+                "album": "ViVi",
+                "role": "Main",
+                "ytId": "yphYFDJ4J4w"
+            },
+            {
+                "year": "2017",
+                "song": "Sonatine",
+                "album": "Love & Evil",
+                "role": "Main",
+                "ytId": "a6JmCdDs_GM"
+            },
+            {
+                "year": "2017",
+                "song": "Rain 51db",
+                "album": "Love & Evil",
+                "role": "Main",
+                "ytId": "GhcY79E7am0"
+            },
+            {
+                "year": "2017",
+                "song": "new",
+                "album": "Yves",
+                "role": "Cameo",
+                "ytId": "LIDe-yTxda0"
+            },
+            {
+                "year": "2017",
+                "song": "The Carol 2.0",
+                "album": "The Carol 2.0",
+                "role": "Main",
+                "ytId": "_5N16N_T23k"
+            },
+            {
+                "year": "2018",
+                "song": "favOriTe",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "AFJPFfnzZ7w"
+            },
+            {
+                "year": "2018",
+                "song": "Hi High",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "846cjX0ZTrk"
+            },
+            {
+                "year": "2018",
+                "song": "Butterfly",
+                "album": "[xx]",
+                "role": "Main",
+                "ytId": "XEOCbFJjRw0"
+            }
         ],
-    
         "wd": [
-            ["2017", "Do You Remember The First Time We Met?", "ViVi (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"],
-            ["2017", "Do You Remember The First Time We Met? Season 2", "ViVi (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"]
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met?",
+                "role": "ViVi (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"
+            },
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met? Season 2",
+                "role": "ViVi (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"
+            }
         ]
     },
     "kimlip": {
+        "id": "kimlip",
         "stage": "Kim Lip",
         "name": "Kim Jung Eun",
         "reveal": "May 15, 2017",
@@ -297,12 +691,10 @@
         "bday": "February 10, 1999",
         "birthPlace": "Cheongju, North Chungcheong, South Korea",
         "bloodGrp": "B",
-    
         "traineeDuration": "?",
         "nextGirlImg": "--",
         "img": "https://i.imgur.com/vcqtUSI.jpg",
         "sign": "https://vignette.wikia.nocookie.net/loonatheworld/images/f/f6/Kim_Lip_signature.png",
-    
         "memNo": "Sixth",
         "animal": "🦉",
         "color": {
@@ -311,37 +703,99 @@
             "rgb": "rgb(255, 0, 60)"
         },
         "givenName": "Lippie, Lip PD, Kimberly Lippington, Dong Dong, Moomin ",
-    
         "hashtags": "#Drawing #1hour #IDrewWellRight?",
         "teamPostion": "Chic, Sassy, Sensitive",
         "charmPoint": "Drawing member caricatures, my drawing skills that only a few people know about~✨",
-    
         "goals": "Improving my drawing skills everytime I do profiles.",
-    
         "msgToOrbit": "1 year old, you're a baby :) My Orbit! Happy 1st anniversary :) There has been so many things, now that I'm thinking about the fact that it has only been a year since we made our full group debut and met Orbits. I thought about it a lot, but it has only been a year, and it means that there are many good things to come while we spend time together, so I'm very happy and excited! I miss you, Orbit. I'm always thankful and sorry, Orbit. Thank you for being with us. Love you",
-    
         "mv": [
-            ["2017", "Eclipse", "Kim Lip", "Main", "_qJEoSa3Ie0"],
-            ["2017", "Love Cherry Motion", "Choerry", "Supporting", "VBbeuXW8Nko"],
-    
-            ["2017", "Girl Front", "Mix & Match", "Main", "tyInv6RWL0Q"],
-            ["2017", "LOONATIC", "Max & Match", "Main", "XznW8Ti6WWk"],
-            ["2017", "Sweet Crazy Love", "Max & Match", "Main", "cG7FkoNKBzI"],
-    
-            ["2018", "Around You (Special Film Ver.)",	"HyunJin", "Main","jzPITap-JRM"],
-    
-            ["2018", "favOriTe", "[++]", "Main", "AFJPFfnzZ7w"],
-            ["2018", "Hi High", "[++]", "Main", "846cjX0ZTrk"],
-            ["2018", "Butterfly", "[xx]", "Main", "XEOCbFJjRw0"]
+            {
+                "year": "2017",
+                "song": "Eclipse",
+                "album": "Kim Lip",
+                "role": "Main",
+                "ytId": "_qJEoSa3Ie0"
+            },
+            {
+                "year": "2017",
+                "song": "Love Cherry Motion",
+                "album": "Choerry",
+                "role": "Supporting",
+                "ytId": "VBbeuXW8Nko"
+            },
+            {
+                "year": "2017",
+                "song": "Girl Front",
+                "album": "Mix & Match",
+                "role": "Main",
+                "ytId": "tyInv6RWL0Q"
+            },
+            {
+                "year": "2017",
+                "song": "LOONATIC",
+                "album": "Max & Match",
+                "role": "Main",
+                "ytId": "XznW8Ti6WWk"
+            },
+            {
+                "year": "2017",
+                "song": "Sweet Crazy Love",
+                "album": "Max & Match",
+                "role": "Main",
+                "ytId": "cG7FkoNKBzI"
+            },
+            {
+                "year": "2018",
+                "song": "Around You (Special Film Ver.)",
+                "album": "HyunJin",
+                "role": "Main",
+                "ytId": "jzPITap-JRM"
+            },
+            {
+                "year": "2018",
+                "song": "favOriTe",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "AFJPFfnzZ7w"
+            },
+            {
+                "year": "2018",
+                "song": "Hi High",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "846cjX0ZTrk"
+            },
+            {
+                "year": "2018",
+                "song": "Butterfly",
+                "album": "[xx]",
+                "role": "Main",
+                "ytId": "XEOCbFJjRw0"
+            }
         ],
-    
         "wd": [
-            ["2017", "Do You Remember The First Time We Met?", "Kim Lip (Cameo)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"],
-            ["2017", "Do You Remember The First Time We Met? Season 2", "Kim Lip (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"],
-            ["2017", "Do You Remember The First Time We Met? Season 3", "Kim Lip (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1Zs9C8MANOl58t92PXqDnr"]
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met?",
+                "role": "Kim Lip (Cameo)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"
+            },
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met? Season 2",
+                "role": "Kim Lip (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"
+            },
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met? Season 3",
+                "role": "Kim Lip (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1Zs9C8MANOl58t92PXqDnr"
+            }
         ]
     },
     "jinsoul": {
+        "id": "jinsoul",
         "stage": "JinSoul",
         "name": "Jung Jin Sol",
         "reveal": "June 13, 2017",
@@ -349,12 +803,10 @@
         "bday": "June 13, 1997",
         "birthPlace": "South Korea",
         "bloodGrp": "B",
-    
         "traineeDuration": "?",
         "nextGirlImg": "--",
         "img": "https://i.imgur.com/m73tHBG.jpg",
         "sign": "https://vignette.wikia.nocookie.net/loonatheworld/images/b/b0/JinSoul_signature.png",
-    
         "memNo": "Seventh",
         "animal": "🐟",
         "color": {
@@ -363,38 +815,106 @@
             "rgb": "rgb(15, 147, 245)"
         },
         "givenName": "Jingolas, Jindori",
-    
         "hashtags": "#Blonde #JawLine #Unexpected",
         "teamPostion": "Unnie who's like a chingu, a vocalist who's like a rapper",
         "charmPoint": "I look like a cold person but actually I'm very soft-hearted :) I can pull off various concepts, every-thing! ☝️",
-    
         "goals": "To be a great singer that Orbit can be proud of ✊🏻",
-    
         "msgToOrbit": "Orbit! Hello :) First of all, thank you so much for giving us lots of love and support for the past year. I'm a bit sad that we couldn't make more memories, but | hope that we can spend more time together in the future. | felt really... happy while being with you, Orbits. I'm always grateful, and thank you so much for believing in and waiting for us. We will do better, Orbit~~ 😍",
-    
         "mv": [
-            ["2017", "Everyday I Need You (feat. JinSoul)", "ViVi", "Cameo", "yphYFDJ4J4w"],
-            ["2017", "Singing in The Rain", "JinSoul", "Main", "RWeyOyY_puQ"],
-            ["2017", "Love Cherry Motion", "Choerry", "Supporting", "VBbeuXW8Nko"],
-    
-            ["2017", "Girl Front", "Mix & Match", "Main", "tyInv6RWL0Q"],
-            ["2017", "LOONATIC", "Max & Match", "Main", "XznW8Ti6WWk"],
-            ["2017", "Sweet Crazy Love", "Max & Match", "Main", "cG7FkoNKBzI"],
-    
-            ["2018", "Egoist (feat. JinSoul)",	"Olivia Hye", "Rapper", "UkY8HvgvBJ8"],
-    
-            ["2018", "favOriTe", "[++]", "Main", "AFJPFfnzZ7w"],
-            ["2018", "Hi High", "[++]", "Main", "846cjX0ZTrk"],
-            ["2018", "Butterfly", "[xx]", "Main", "XEOCbFJjRw0"]
+            {
+                "year": "2017",
+                "song": "Everyday I Need You (feat. JinSoul)",
+                "album": "ViVi",
+                "role": "Cameo",
+                "ytId": "yphYFDJ4J4w"
+            },
+            {
+                "year": "2017",
+                "song": "Singing in The Rain",
+                "album": "JinSoul",
+                "role": "Main",
+                "ytId": "RWeyOyY_puQ"
+            },
+            {
+                "year": "2017",
+                "song": "Love Cherry Motion",
+                "album": "Choerry",
+                "role": "Supporting",
+                "ytId": "VBbeuXW8Nko"
+            },
+            {
+                "year": "2017",
+                "song": "Girl Front",
+                "album": "Mix & Match",
+                "role": "Main",
+                "ytId": "tyInv6RWL0Q"
+            },
+            {
+                "year": "2017",
+                "song": "LOONATIC",
+                "album": "Max & Match",
+                "role": "Main",
+                "ytId": "XznW8Ti6WWk"
+            },
+            {
+                "year": "2017",
+                "song": "Sweet Crazy Love",
+                "album": "Max & Match",
+                "role": "Main",
+                "ytId": "cG7FkoNKBzI"
+            },
+            {
+                "year": "2018",
+                "song": "Egoist (feat. JinSoul)",
+                "album": "Olivia Hye",
+                "role": "Rapper",
+                "ytId": "UkY8HvgvBJ8"
+            },
+            {
+                "year": "2018",
+                "song": "favOriTe",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "AFJPFfnzZ7w"
+            },
+            {
+                "year": "2018",
+                "song": "Hi High",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "846cjX0ZTrk"
+            },
+            {
+                "year": "2018",
+                "song": "Butterfly",
+                "album": "[xx]",
+                "role": "Main",
+                "ytId": "XEOCbFJjRw0"
+            }
         ],
-    
         "wd": [
-            ["2017", "Do You Remember The First Time We Met?", "JinSoul (Cameo)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"],
-            ["2017", "Do You Remember The First Time We Met? Season 2", "JinSoul (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"],
-            ["2017", "Do You Remember The First Time We Met? Season 3", "JinSoul (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1Zs9C8MANOl58t92PXqDnr"]
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met?",
+                "role": "JinSoul (Cameo)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"
+            },
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met? Season 2",
+                "role": "JinSoul (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-0E8fbbHbOm3kmAK96Y7qGR"
+            },
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met? Season 3",
+                "role": "JinSoul (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1Zs9C8MANOl58t92PXqDnr"
+            }
         ]
     },
     "choerry": {
+        "id": "choerry",
         "stage": "Choerry",
         "name": "Choi Ye Rim",
         "reveal": "July 12, 2017",
@@ -402,12 +922,10 @@
         "bday": "June 4, 2001",
         "birthPlace": "Bucheon, South Korea",
         "bloodGrp": "O",
-    
         "traineeDuration": "?",
         "nextGirlImg": "--",
         "img": "https://i.imgur.com/BUxigGN.jpg",
         "sign": "https://vignette.wikia.nocookie.net/loonatheworld/images/1/1e/Choerry_signature.png",
-    
         "memNo": "Eighth",
         "animal": "🦇<br>- <u>Fruit</u>: 🍒",
         "color": {
@@ -416,37 +934,100 @@
             "rgb": "rgb(191, 69, 240)"
         },
         "givenName": "",
-    
         "hashtags": "#Ms.Sun #Boradori",
         "teamPostion": "Assistant Manager Choi (Choi-daeri), Cheerleader Captain",
         "charmPoint": "Reactions are out of this world, Ms. Sun, who's out of this world, A word magician who's out of this world, A troublemaker who's out of this world",
-    
         "goals": "Billboard #1!!! World tour~!!! Becoming a sexy queen!!!",
-    
         "msgToOrbit": "Congratulations on turning 1 year old, Orbit~!! ♥︎ If you're 1 year old, that means that you've been with LOONA for over a year, right!? Thank you for watching over us for all this time!! 😍 I hope you enjoy seeing us in the future too (wink 😉)<br>I always love you miss you, and like you ♥︎ See you soon~!",
-    
         "mv": [
-            ["2017", "Love Cherry Motion", "Choerry", "Main", "VBbeuXW8Nko"],
-    
-            ["2017", "Girl Front", "Mix & Match", "Main", "tyInv6RWL0Q"],
-            ["2017", "LOONATIC", "Max & Match", "Main", "XznW8Ti6WWk"],
-            ["2017", "Sweet Crazy Love", "Max & Match", "Main", "cG7FkoNKBzI"],
-    
-            ["2017", "new",	"Yves", "Cameo", "LIDe-yTxda0"],
-            ["2017", "The Carol 2.0", "The Carol 2.0", "Main", "_5N16N_T23k"],
-            ["2018", "One&Only",	"Go Won", "Cameo", "jm5qwcYL8a0o"],
-    
-            ["2018", "favOriTe", "[++]", "Main", "AFJPFfnzZ7w"],
-            ["2018", "Hi High", "[++]", "Main", "846cjX0ZTrk"],
-            ["2018", "Butterfly", "[xx]", "Main", "XEOCbFJjRw0"]
+            {
+                "year": "2017",
+                "song": "Love Cherry Motion",
+                "album": "Choerry",
+                "role": "Main",
+                "ytId": "VBbeuXW8Nko"
+            },
+            {
+                "year": "2017",
+                "song": "Girl Front",
+                "album": "Mix & Match",
+                "role": "Main",
+                "ytId": "tyInv6RWL0Q"
+            },
+            {
+                "year": "2017",
+                "song": "LOONATIC",
+                "album": "Max & Match",
+                "role": "Main",
+                "ytId": "XznW8Ti6WWk"
+            },
+            {
+                "year": "2017",
+                "song": "Sweet Crazy Love",
+                "album": "Max & Match",
+                "role": "Main",
+                "ytId": "cG7FkoNKBzI"
+            },
+            {
+                "year": "2017",
+                "song": "new",
+                "album": "Yves",
+                "role": "Cameo",
+                "ytId": "LIDe-yTxda0"
+            },
+            {
+                "year": "2017",
+                "song": "The Carol 2.0",
+                "album": "The Carol 2.0",
+                "role": "Main",
+                "ytId": "_5N16N_T23k"
+            },
+            {
+                "year": "2018",
+                "song": "One&Only",
+                "album": "Go Won",
+                "role": "Cameo",
+                "ytId": "jm5qwcYL8a0o"
+            },
+            {
+                "year": "2018",
+                "song": "favOriTe",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "AFJPFfnzZ7w"
+            },
+            {
+                "year": "2018",
+                "song": "Hi High",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "846cjX0ZTrk"
+            },
+            {
+                "year": "2018",
+                "song": "Butterfly",
+                "album": "[xx]",
+                "role": "Main",
+                "ytId": "XEOCbFJjRw0"
+            }
         ],
-    
         "wd": [
-            ["2017", "Do You Remember The First Time We Met? Season 2", "Choi Ye Rim (Cameo)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"],
-            ["2017", "Do You Remember The First Time We Met? Season 3", "Choi Ye Rim (Herself)", "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1Zs9C8MANOl58t92PXqDnr"]
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met? Season 2",
+                "role": "Choi Ye Rim (Cameo)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1HiLwm-aC2HEOQ-zMtCCCX"
+            },
+            {
+                "year": "2017",
+                "title": "Do You Remember The First Time We Met? Season 3",
+                "role": "Choi Ye Rim (Herself)",
+                "url": "https://www.youtube.com/playlist?list=PLgUyA0NDuB-1Zs9C8MANOl58t92PXqDnr"
+            }
         ]
     },
     "yves": {
+        "id": "yves",
         "stage": "Yves",
         "name": "Ha Soo Young",
         "reveal": "November 14, 2017",
@@ -454,12 +1035,10 @@
         "bday": "May 24, 1997",
         "birthPlace": "Busan, South Korea",
         "bloodGrp": "B",
-    
         "traineeDuration": "?",
         "nextGirlImg": "--",
         "img": "https://i.imgur.com/OwFS7vl.jpg",
         "sign": "https://vignette.wikia.nocookie.net/loonatheworld/images/9/9f/Yves_signature.png",
-    
         "memNo": "Nineth",
         "animal": "🦆 <br>- <u>Fruit</u>: 🍎",
         "color": {
@@ -468,34 +1047,88 @@
             "rgb": "rgb(156, 0, 65)"
         },
         "givenName": "Eevie, Ha Yves, Sooyoungie",
-    
         "hashtags": "#PassionMan #YvesUnnie #SoftJaguar #BabyApple",
         "teamPostion": "Bellybutton Thief (someone who makes you laugh), Speech Teacher",
         "charmPoint": "Radiant, Shining Forehead, Rabbit Front-Teeth, Likes cute things",
-    
         "goals": "LOOΠΔ and Orbits all being happy!!! Enriching a color that's unique to Yves!",
-    
         "msgToOrbit": "My lovely Orbits, have you been doing well?! It has been so long since we've seen each other... TT I wanna see you! Well return in a cool way soon, so look forward to it >< ♥︎ So it has already been a year together... But I'm 23 years old and you're just 1 year old heheh... <br>Look forward to unnie (noona)! Trust me and follow me, heh 😍 <br> I'll make you even happier-! love you, 1-year old Orbits!!",
-    
         "mv": [
-            ["2017", "new",	"Yves", "Main", "LIDe-yTxda0"],
-            ["2017", "Heart Attack", "Chuu", "Supporting", "BVVfMFS3mgc"],
-            ["2017", "The Carol 2.0", "The Carol 2.0", "Main", "_5N16N_T23k"],
-            ["2018", "One&Only", "Go Won", "Cameo", "jm5qwcYL8a0o"],
-            ["2018", "Egoist (feat. JinSoul)",	"Olivia Hye", "Cameo", "UkY8HvgvBJ8"],
-    
-            ["2018", "love4eva (feat. Grimes)", "beauty&thebeat", "Main", "tIWpr3tHzII"],
-    
-            ["2018", "favOriTe", "[++]", "Main", "AFJPFfnzZ7w"],
-            ["2018", "Hi High", "[++]", "Main", "846cjX0ZTrk"],
-            ["2018", "Butterfly", "[xx]", "Main", "XEOCbFJjRw0"]
+            {
+                "year": "2017",
+                "song": "new",
+                "album": "Yves",
+                "role": "Main",
+                "ytId": "LIDe-yTxda0"
+            },
+            {
+                "year": "2017",
+                "song": "Heart Attack",
+                "album": "Chuu",
+                "role": "Supporting",
+                "ytId": "BVVfMFS3mgc"
+            },
+            {
+                "year": "2017",
+                "song": "The Carol 2.0",
+                "album": "The Carol 2.0",
+                "role": "Main",
+                "ytId": "_5N16N_T23k"
+            },
+            {
+                "year": "2018",
+                "song": "One&Only",
+                "album": "Go Won",
+                "role": "Cameo",
+                "ytId": "jm5qwcYL8a0o"
+            },
+            {
+                "year": "2018",
+                "song": "Egoist (feat. JinSoul)",
+                "album": "Olivia Hye",
+                "role": "Cameo",
+                "ytId": "UkY8HvgvBJ8"
+            },
+            {
+                "year": "2018",
+                "song": "Egoist (feat. JinSoul)",
+                "album": "beauty&thebeat",
+                "role": "Main",
+                "ytId": "tIWpr3tHzII"
+            },
+            {
+                "year": "2018",
+                "song": "favOriTe",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "AFJPFfnzZ7w"
+            },
+            {
+                "year": "2018",
+                "song": "Hi High",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "846cjX0ZTrk"
+            },
+            {
+                "year": "2018",
+                "song": "Butterfly",
+                "album": "[xx]",
+                "role": "Main",
+                "ytId": "XEOCbFJjRw0"
+            }
         ],
-    
         "tv": [
-            ["2019", "The Gashinas", "Sooyoung", "#"]
+            {
+                "year": "2019",
+                "title": "The Gashinas",
+                "network": "MBC",
+                "role": "Sooyoung",
+                "url": "#"
+            }
         ]
     },
     "chuu": {
+        "id": "chuu",
         "stage": "Chuu",
         "name": "Kim Jiwoo",
         "reveal": "December 14, 2017",
@@ -503,12 +1136,10 @@
         "bday": "October 20, 1999",
         "birthPlace": "North Chungcheong, South Korea",
         "bloodGrp": "A",
-    
         "traineeDuration": "?",
         "nextGirlImg": "--",
         "img": "https://i.imgur.com/v0cSu06.jpg",
         "sign": "https://vignette.wikia.nocookie.net/loonatheworld/images/0/06/Chuu_signature.png",
-    
         "memNo": "Tenth",
         "animal": "🐧 <br>- <u>Fruit</u>: 🍓",
         "color": {
@@ -517,32 +1148,74 @@
             "rgb": "rgb(255, 134, 117)"
         },
         "givenName": "Jiwooming, Vitaming, Ming Princess",
-    
         "hashtags": "#ILikeSelfies #StopShopping",
         "teamPostion": "Roundie... High-tone :)",
         "charmPoint": "Flowing hair, Impressive athletic abilites, A voice that changes to fit any situation. Kya~",
-    
         "goals": "Space Big Star! 😍!",
-    
         "msgToOrbit": "For 1 year and more, thank you for loving us, not leaving our side, watching over us, and giving us strength. Thank you, there’s so much I want to do for you TT Things for you to see, things for you to hear, I'll give you everything, so please wait a little, alright? :)<br>We'll diligently go ‘round and ‘round Orbits, watch over you, and love you too smile >u< You're so precious to me, our Orbits ♥︎ Our future together will be full of flowers and hearts~ 🎵 Let’s go together, promise! ♥︎",
-    
         "mv": [
-            ["2017", "Heart Attack", "Chuu", "Main", "BVVfMFS3mgc"],
-            ["2018", "One&Only", "Go Won", "Cameo", "jm5qwcYL8a0o"],
-            ["2018", "Egoist (feat. JinSoul)",	"Olivia Hye", "Cameo", "UkY8HvgvBJ8"],
-    
-            ["2018", "love4eva (feat. Grimes)", "beauty&thebeat", "Main", "tIWpr3tHzII"],
-    
-            ["2018", "favOriTe", "[++]", "Main", "AFJPFfnzZ7w"],
-            ["2018", "Hi High", "[++]", "Main", "846cjX0ZTrk"],
-            ["2018", "Butterfly", "[xx]", "Main", "XEOCbFJjRw0"]
+            {
+                "year": "2017",
+                "song": "Heart Attack",
+                "album": "Chuu",
+                "role": "Main",
+                "ytId": "BVVfMFS3mgc"
+            },
+            {
+                "year": "2018",
+                "song": "One&Only",
+                "album": "Go Won",
+                "role": "Cameo",
+                "ytId": "jm5qwcYL8a0o"
+            },
+            {
+                "year": "2018",
+                "song": "Egoist (feat. JinSoul)",
+                "album": "Olivia Hye",
+                "role": "Cameo",
+                "ytId": "UkY8HvgvBJ8"
+            },
+            {
+                "year": "2018",
+                "song": "Egoist (feat. JinSoul)",
+                "album": "beauty&thebeat",
+                "role": "Main",
+                "ytId": "tIWpr3tHzII"
+            },
+            {
+                "year": "2018",
+                "song": "favOriTe",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "AFJPFfnzZ7w"
+            },
+            {
+                "year": "2018",
+                "song": "Hi High",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "846cjX0ZTrk"
+            },
+            {
+                "year": "2018",
+                "song": "Butterfly",
+                "album": "[xx]",
+                "role": "Main",
+                "ytId": "XEOCbFJjRw0"
+            }
         ],
-    
         "wd": [
-            ["2019", "Dating Class", "Han Eun Sol", "https://www.youtube.com/playlist?list=PLQ0f_g2mQlLcayB3SSQhzqnAj1O_9Dg7e"]
+            {
+                "year": "2019",
+                "title": "Dating Class",
+                "network": "tvN",
+                "role": "Han Eun Sol",
+                "url": "https://www.youtube.com/playlist?list=PLQ0f_g2mQlLcayB3SSQhzqnAj1O_9Dg7e"
+            }
         ]
     },
     "gowon": {
+        "id": "gowon",
         "stage": "Go Won",
         "name": "Park Chae Won",
         "reveal": "January 15, 2018",
@@ -550,12 +1223,10 @@
         "bday": "November 19, 2000",
         "birthPlace": "Incheon, South Korea",
         "bloodGrp": "A",
-    
         "traineeDuration": "?",
         "nextGirlImg": "--",
         "img": "https://i.imgur.com/vQuJ5gc.jpg",
         "sign": "https://vignette.wikia.nocookie.net/loonatheworld/images/f/f6/Go_Won_signature.png",
-    
         "memNo": "Eleventh",
         "animal": "🦋 <br>- <u>Fruit</u>: 🍍",
         "color": {
@@ -564,27 +1235,58 @@
             "rgb": "rgb(0, 195, 159)"
         },
         "givenName": " ",
-    
         "hashtags": "#Kogong #PoppingGoWon",
         "teamPostion": "Paper Human, ASMR",
         "charmPoint": "Lethargic yet active, Round forehead, Round eyes, lips, nose :-)",
-    
         "goals": "1st place singers, LOOΠΔ. Going to amusement parks once a month!!! Tteokbeokki restaurant CEO ^v^",
-    
         "msgToOrbit": "Orbits, congratulations on 1 year! I'm a 20-year old adult but Orbits ar just 1 year old haha<br>You know we'll be together for over 100 years, right? I've been so happy that we could laugh together for this past 1 year. ♥︎ <br>Let's make our upcoming days happy together too :)<br>Orbits will always be Go Won's other half! I love you >u<",
-    
         "mv": [
-            ["2018", "One&Only", "Go Won", "Main", "jm5qwcYL8a0o"],
-            ["2018", "Egoist (feat. JinSoul)",	"Olivia Hye", "Cameo", "UkY8HvgvBJ8"],
-    
-            ["2018", "love4eva (feat. Grimes)", "beauty&thebeat", "Main", "tIWpr3tHzII"],
-    
-            ["2018", "favOriTe", "[++]", "Main", "AFJPFfnzZ7w"],
-            ["2018", "Hi High", "[++]", "Main", "846cjX0ZTrk"],
-            ["2018", "Butterfly", "[xx]", "Main", "XEOCbFJjRw0"]
+            {
+                "year": "2018",
+                "song": "One&Only",
+                "album": "Go Won",
+                "role": "Main",
+                "ytId": "jm5qwcYL8a0o"
+            },
+            {
+                "year": "2018",
+                "song": "Egoist (feat. JinSoul)",
+                "album": "Olivia Hye",
+                "role": "Cameo",
+                "ytId": "UkY8HvgvBJ8"
+            },
+            {
+                "year": "2018",
+                "song": "Egoist (feat. JinSoul)",
+                "album": "beauty&thebeat",
+                "role": "Main",
+                "ytId": "tIWpr3tHzII"
+            },
+            {
+                "year": "2018",
+                "song": "favOriTe",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "AFJPFfnzZ7w"
+            },
+            {
+                "year": "2018",
+                "song": "Hi High",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "846cjX0ZTrk"
+            },
+            {
+                "year": "2018",
+                "song": "Butterfly",
+                "album": "[xx]",
+                "role": "Main",
+                "ytId": "XEOCbFJjRw0"
+            }
         ]
     },
     "olivia": {
+        "id": "olivia",
         "stage": "Olivia Hye",
         "name": "Son Hye Joo",
         "reveal": "March 17, 2018",
@@ -592,12 +1294,10 @@
         "bday": "November 13, 2001",
         "birthPlace": "?",
         "bloodGrp": "B",
-    
         "traineeDuration": "?",
         "nextGirlImg": "--",
         "img": "https://i.imgur.com/GKgAABt.jpg",
         "sign": "https://vignette.wikia.nocookie.net/loonatheworld/images/b/b0/Olivia_Hye_signature.png",
-    
         "memNo": "Twelfth",
         "animal": "🐺 <br>- <u>Fruit</u>: Blood Plum",
         "color": {
@@ -606,23 +1306,47 @@
             "rgb": "rgb(99, 100, 105)"
         },
         "givenName": " ",
-    
         "hashtags": "#VideogameAddiction",
         "teamPostion": "Killing bugs",
         "charmPoint": "I'm chic... Lethargic... But inside I'm clumsy in a cute way ^^",
-    
         "goals": "Becoming someone's role model",
-    
         "msgToOrbit": "[CELE - BRATION]<br>Han: The cutest, coolest people in Korea! My people!!!<br>Sal: Sal-ang-hae (I love you) ^_^ 💕",
-    
         "mv": [
-            ["2018", "Egoist (feat. JinSoul)",	"Olivia Hye", "Cameo", "UkY8HvgvBJ8"],
-    
-            ["2018", "love4eva (feat. Grimes)", "beauty&thebeat", "Main", "tIWpr3tHzII"],
-    
-            ["2018", "favOriTe", "[++]", "Main", "AFJPFfnzZ7w"],
-            ["2018", "Hi High", "[++]", "Main", "846cjX0ZTrk"],
-            ["2018", "Butterfly", "[xx]", "Main", "XEOCbFJjRw0"]
+            {
+                "year": "2018",
+                "song": "Egoist (feat. JinSoul)",
+                "album": "Olivia Hye",
+                "role": "Cameo",
+                "ytId": "UkY8HvgvBJ8"
+            },
+            {
+                "year": "2018",
+                "song": "Egoist (feat. JinSoul)",
+                "album": "beauty&thebeat",
+                "role": "Main",
+                "ytId": "tIWpr3tHzII"
+            },
+            {
+                "year": "2018",
+                "song": "favOriTe",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "AFJPFfnzZ7w"
+            },
+            {
+                "year": "2018",
+                "song": "Hi High",
+                "album": "[++]",
+                "role": "Main",
+                "ytId": "846cjX0ZTrk"
+            },
+            {
+                "year": "2018",
+                "song": "Butterfly",
+                "album": "[xx]",
+                "role": "Main",
+                "ytId": "XEOCbFJjRw0"
+            }
         ]
     }
 }
